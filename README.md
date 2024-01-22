@@ -30,15 +30,16 @@ methods = [
 ```
 
 ## Visualization
+![image](https://github.com/dyhBUPT/EnsembleMOT/assets/99722489/b3998581-7b53-4afa-bba9-3286accc0847)
 
-![image](https://user-images.githubusercontent.com/99722489/196875661-ab7d2a94-b776-459d-9f88-bd7920b6545b.png)
 
 ## Results
+![image](https://github.com/dyhBUPT/EnsembleMOT/assets/99722489/c3e2a8cb-4a6a-4fda-b1e2-fed060471d03)
 
-![image](https://user-images.githubusercontent.com/99722489/196875733-32163421-c7f5-42da-b972-f69e09c5891a.png)
 
-![image](https://user-images.githubusercontent.com/99722489/196875839-54f60b58-252b-447e-a9f0-20c461077335.png)
-
+## TODO
+- Voting-based Ensemble
+- DeepSORT-based Ensemble
 
 ## Citation
 ```
